@@ -42,8 +42,17 @@ $horario = [
 
 
 $integrantes = [
-    "Miguel Mar´tinez",
+    "Miguel Martínez",
     "David Murillo",
     "Juanma Suarez",
     "Maki Mirón"
+];
+
+$modulos=[
+    "DWES"=>"Desarrollo web en entorno servidor",
+    "DAW"=> "Despliegue de aplicaciones web",
+    "DIW"=>"Diseño de interfaces web",
+    "DWEC"=>"Desarrollo web en entorno cliente",
+    "EIE"=>"Empresa e iniciativa emprendedora",
+    "ITGS"=>"Inglés técnico" 
 ];

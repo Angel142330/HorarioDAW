@@ -28,4 +28,11 @@
 
 .contenido table{
     border: 6px grey outset;
+    background-color: grey;
+}
+.contenido th{
+    border: solid grey 1px;
+    background-color: white;
+    color: blue;
+    padding: 5px;
 }

@@ -1,6 +1,6 @@
 <?php
 
-include('php/data.php');
+include('data.php');
 
 ?>
 
@@ -17,7 +17,7 @@ include('php/data.php');
 
 <body>
   <div class="titulo">
-    <h1>GRUPO MDMJ</h1>
+    <h1>GRUPO MDMAJ</h1>
     <h2>Integrantes</h2>
     <ul>
       <!--PHP-->

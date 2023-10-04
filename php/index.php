@@ -14,12 +14,12 @@ include 'data.php';
 </head>
 <body>
   <div class="titulo">
-    <h1>GRUPO MDMAJ</h1>
-    <h2>Integrantes</h2>
+    <h1>GRUPO DAW2V</h1>
+    <h2>Integrante</h2>
     <ul>
-      <?php foreach ($integrantes as $key) : ?>
-        <li><?= $key ?></li>
-      <?php endforeach ?>
+      
+        <li><?= $integrantes[0] ?></li>
+     
     </ul>
   </div>
   <div class="contenido">
